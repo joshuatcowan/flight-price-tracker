@@ -1,0 +1,61 @@
+FLIGHT PRICE TRACKER — 2026-08-08 21:51 UTC
+SEA ↔ China/HK round trip | out 9/11-9/12 (arrive ≤9/13) | back 9/20 | BUSINESS | oneworld | ≤1 stop
+NOTE: prices are full ROUND-TRIP fares for that outbound paired with the best available return.
+==============================================================================
+
+[warnings]
+  SEA-CKG 2026-09-11: Google Flights hasn't returned any results for this query.
+
+*** CHEAPEST QUALIFYING (top 10 overall) ***
+
+$5,273 — SEA↔HKG (Hong Kong), depart 2026-09-11
+  SEA → DOH → HKG | 2026-09-11 16:25 → 2026-09-13 15:10 | 31h45m in air+layover | layover: DOH 8h40m
+    legs: Qatar Airways QR 720 (Business Class); Qatar Airways QR 818 (Business Class)
+
+$5,419 — SEA↔HKG (Hong Kong), depart 2026-09-12
+  SEA → LAX → HKG | 2026-09-12 07:10 → 2026-09-13 18:55 | 20h45m in air+layover | layover: LAX 3h04m
+    legs: American AA 4896 (First Class); Cathay Pacific CX 885 (Business Class)
+
+$6,489 — SEA↔PEK (Beijing), depart 2026-09-12
+  SEA → HKG → PEK | 2026-09-12 12:25 → 2026-09-13 22:25 | 19h00m in air+layover | layover: HKG 2h15m
+    legs: Cathay Pacific CX 853 (Business Class); Cathay Pacific CX 344 (Business Class)
+
+$6,489 — SEA↔PVG (Shanghai), depart 2026-09-12
+  SEA → HKG → PVG | 2026-09-12 12:25 → 2026-09-13 22:10 | 18h45m in air+layover | layover: HKG 2h35m
+    legs: Cathay Pacific CX 853 (Business Class); Cathay Pacific CX 362 (Business Class)
+
+$6,591 — SEA↔HKG (Hong Kong), depart 2026-09-11
+  SEA → NRT → HKG | 2026-09-11 13:15 → 2026-09-12 22:05 | 17h50m in air+layover | layover: NRT 2h50m
+    legs: JAL JL 67 (Business Class); JAL JL 735 (Business Class)
+
+$6,591 — SEA↔HKG (Hong Kong), depart 2026-09-12
+  SEA → NRT → HKG | 2026-09-12 13:15 → 2026-09-13 22:05 | 17h50m in air+layover | layover: NRT 2h50m
+    legs: JAL JL 67 (Business Class); JAL JL 735 (Business Class)
+
+$6,843 — SEA↔HKG (Hong Kong), depart 2026-09-11
+  SEA → LAX → HKG | 2026-09-11 20:35 → 2026-09-13 06:45 | 19h10m in air+layover | layover: LAX 2h01m
+    legs: Alaska AS 496 (Business Class); Cathay Pacific CX 881 (Business Class)
+
+$6,856 — SEA↔HKG (Hong Kong), depart 2026-09-12
+  SEA → HKG | 2026-09-12 12:25 → 2026-09-13 16:45 | 13h20m in air+layover | layover: nonstop
+    legs: Cathay Pacific CX 853 (Business Class)
+
+$7,050 — SEA↔HKG (Hong Kong), depart 2026-09-11
+  SEA → NRT → HKG | 2026-09-11 13:15 → 2026-09-12 21:10 | 16h55m in air+layover | layover: NRT 1h45m
+    legs: JAL JL 67 (Business Class); Cathay Pacific CX 521 (Business Class)
+
+$7,050 — SEA↔HKG (Hong Kong), depart 2026-09-12
+  SEA → NRT → HKG | 2026-09-12 13:15 → 2026-09-13 21:10 | 16h55m in air+layover | layover: NRT 1h45m
+    legs: JAL JL 67 (Business Class); Cathay Pacific CX 521 (Business Class)
+
+*** BEST PER DESTINATION ***
+
+Hong Kong (HKG): cheapest $5,273 (dep 2026-09-11) | fastest 13h20m at $6,856 (dep 2026-09-12)
+
+Beijing (PEK): cheapest $6,489 (dep 2026-09-12) | fastest 19h00m at $6,489 (dep 2026-09-12)
+
+Shanghai (PVG): cheapest $6,489 (dep 2026-09-12) | fastest 18h45m at $6,489 (dep 2026-09-12)
+
+Chongqing (CKG): NO qualifying option found today
+
+[saved 18 results to results/latest.json]
