@@ -142,6 +142,7 @@ def main():
             except Exception as e:
                 errors.append(f"SEA-{dest} {dep}: {e}")
                 continue
+            book_url = (data.get("search_metadata", {}) or {}).get("google_flights_url", "")
             options = (data.get("best_flights") or []) + (data.get("other_flights") or [])
             for opt in options:
                 ok, why = check_option(opt, dep)
@@ -152,6 +153,7 @@ def main():
                     "price": opt["price"],
                     "total_duration_min": opt.get("total_duration", 0),
                     "text": describe(opt),
+                    "book_url": book_url,
                 })
             time.sleep(1)
 
@@ -159,8 +161,9 @@ def main():
     print(f"FLIGHT PRICE TRACKER — {stamp}")
     print("SEA ↔ China/HK round trip | out 9/11-9/12 (arrive ≤9/13) | back 9/20"
           " | BUSINESS | oneworld | ≤1 stop")
-    print("NOTE: prices are full ROUND-TRIP fares for that outbound paired with"
-          " the best available return.")
+    print("NOTE: prices are COMPLETE round-trip totals INCLUDING taxes and fees"
+          " (Google Flights totals), for that outbound paired with the best"
+          " available return.")
     print("=" * 78)
 
     if errors:
@@ -178,6 +181,8 @@ def main():
     for r in results[:10]:
         print(f"\n${r['price']:,} — SEA↔{r['dest']} ({r['city']}), depart {r['depart']}")
         print(r["text"])
+        if r.get("book_url"):
+            print(f"    BOOK: {r['book_url']}")
 
     print("\n*** BEST PER DESTINATION ***")
     for dest, city in DESTINATIONS.items():
@@ -190,6 +195,10 @@ def main():
         fm = fastest["total_duration_min"]
         print(f"\n{city} ({dest}): cheapest ${cheapest['price']:,} (dep {cheapest['depart']})"
               f" | fastest {fm//60}h{fm%60:02d}m at ${fastest['price']:,} (dep {fastest['depart']})")
+        if cheapest.get("book_url"):
+            print(f"  BOOK cheapest: {cheapest['book_url']}")
+        if fastest.get("book_url") and fastest["book_url"] != cheapest.get("book_url"):
+            print(f"  BOOK fastest:  {fastest['book_url']}")
 
     if "--json" in sys.argv:
         path = sys.argv[sys.argv.index("--json") + 1]
