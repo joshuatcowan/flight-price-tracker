@@ -5,7 +5,8 @@
     "depart": "2026-09-11",
     "price": 5273,
     "total_duration_min": 1905,
-    "text": "  SEA \u2192 DOH \u2192 HKG | 2026-09-11 16:25 \u2192 2026-09-13 15:10 | 31h45m in air+layover | layover: DOH 8h40m\n    legs: Qatar Airways QR 720 (Business Class); Qatar Airways QR 818 (Business Class)"
+    "text": "  SEA \u2192 DOH \u2192 HKG | 2026-09-11 16:25 \u2192 2026-09-13 15:10 | 31h45m in air+layover | layover: DOH 8h40m\n    legs: Qatar Airways QR 720 (Business Class); Qatar Airways QR 818 (Business Class)",
+    "book_url": "https://www.google.com/travel/flights?hl=en&gl=us&curr=USD&tfs=CBwQAhoqEgoyMDI2LTA5LTExKAEyCE9ORVdPUkxEagcIARIDU0VBcgcIARIDSEtHGioSCjIwMjYtMDktMjAoATIIT05FV09STERqBwgBEgNIS0dyBwgBEgNTRUFAAUgDcAGYAQE&tfu=EgIIAQ"
   },
   {
     "dest": "HKG",
@@ -13,7 +14,8 @@
     "depart": "2026-09-12",
     "price": 5419,
     "total_duration_min": 1245,
-    "text": "  SEA \u2192 LAX \u2192 HKG | 2026-09-12 07:10 \u2192 2026-09-13 18:55 | 20h45m in air+layover | layover: LAX 3h04m\n    legs: American AA 4896 (First Class); Cathay Pacific CX 885 (Business Class)"
+    "text": "  SEA \u2192 LAX \u2192 HKG | 2026-09-12 07:10 \u2192 2026-09-13 18:55 | 20h45m in air+layover | layover: LAX 3h04m\n    legs: American AA 4896 (First Class); Cathay Pacific CX 885 (Business Class)",
+    "book_url": "https://www.google.com/travel/flights?hl=en&gl=us&curr=USD&tfs=CBwQAhoqEgoyMDI2LTA5LTEyKAEyCE9ORVdPUkxEagcIARIDU0VBcgcIARIDSEtHGioSCjIwMjYtMDktMjAoATIIT05FV09STERqBwgBEgNIS0dyBwgBEgNTRUFAAUgDcAGYAQE&tfu=EgIIAQ"
   },
   {
     "dest": "PEK",
@@ -21,7 +23,8 @@
     "depart": "2026-09-12",
     "price": 6489,
     "total_duration_min": 1140,
-    "text": "  SEA \u2192 HKG \u2192 PEK | 2026-09-12 12:25 \u2192 2026-09-13 22:25 | 19h00m in air+layover | layover: HKG 2h15m\n    legs: Cathay Pacific CX 853 (Business Class); Cathay Pacific CX 344 (Business Class)"
+    "text": "  SEA \u2192 HKG \u2192 PEK | 2026-09-12 12:25 \u2192 2026-09-13 22:25 | 19h00m in air+layover | layover: HKG 2h15m\n    legs: Cathay Pacific CX 853 (Business Class); Cathay Pacific CX 344 (Business Class)",
+    "book_url": "https://www.google.com/travel/flights?hl=en&gl=us&curr=USD&tfs=CBwQAhoqEgoyMDI2LTA5LTEyKAEyCE9ORVdPUkxEagcIARIDU0VBcgcIARIDUEVLGioSCjIwMjYtMDktMjAoATIIT05FV09STERqBwgBEgNQRUtyBwgBEgNTRUFAAUgDcAGYAQE&tfu=EgIIAQ"
   },
   {
     "dest": "PVG",
@@ -29,7 +32,8 @@
     "depart": "2026-09-12",
     "price": 6489,
     "total_duration_min": 1125,
-    "text": "  SEA \u2192 HKG \u2192 PVG | 2026-09-12 12:25 \u2192 2026-09-13 22:10 | 18h45m in air+layover | layover: HKG 2h35m\n    legs: Cathay Pacific CX 853 (Business Class); Cathay Pacific CX 362 (Business Class)"
+    "text": "  SEA \u2192 HKG \u2192 PVG | 2026-09-12 12:25 \u2192 2026-09-13 22:10 | 18h45m in air+layover | layover: HKG 2h35m\n    legs: Cathay Pacific CX 853 (Business Class); Cathay Pacific CX 362 (Business Class)",
+    "book_url": "https://www.google.com/travel/flights?hl=en&gl=us&curr=USD&tfs=CBwQAhoqEgoyMDI2LTA5LTEyKAEyCE9ORVdPUkxEagcIARIDU0VBcgcIARIDUFZHGioSCjIwMjYtMDktMjAoATIIT05FV09STERqBwgBEgNQVkdyBwgBEgNTRUFAAUgDcAGYAQE&tfu=EgIIAQ"
   },
   {
     "dest": "HKG",
@@ -37,7 +41,8 @@
     "depart": "2026-09-11",
     "price": 6591,
     "total_duration_min": 1070,
-    "text": "  SEA \u2192 NRT \u2192 HKG | 2026-09-11 13:15 \u2192 2026-09-12 22:05 | 17h50m in air+layover | layover: NRT 2h50m\n    legs: JAL JL 67 (Business Class); JAL JL 735 (Business Class)"
+    "text": "  SEA \u2192 NRT \u2192 HKG | 2026-09-11 13:15 \u2192 2026-09-12 22:05 | 17h50m in air+layover | layover: NRT 2h50m\n    legs: JAL JL 67 (Business Class); JAL JL 735 (Business Class)",
+    "book_url": "https://www.google.com/travel/flights?hl=en&gl=us&curr=USD&tfs=CBwQAhoqEgoyMDI2LTA5LTExKAEyCE9ORVdPUkxEagcIARIDU0VBcgcIARIDSEtHGioSCjIwMjYtMDktMjAoATIIT05FV09STERqBwgBEgNIS0dyBwgBEgNTRUFAAUgDcAGYAQE&tfu=EgIIAQ"
   },
   {
     "dest": "HKG",
@@ -45,7 +50,8 @@
     "depart": "2026-09-12",
     "price": 6591,
     "total_duration_min": 1070,
-    "text": "  SEA \u2192 NRT \u2192 HKG | 2026-09-12 13:15 \u2192 2026-09-13 22:05 | 17h50m in air+layover | layover: NRT 2h50m\n    legs: JAL JL 67 (Business Class); JAL JL 735 (Business Class)"
+    "text": "  SEA \u2192 NRT \u2192 HKG | 2026-09-12 13:15 \u2192 2026-09-13 22:05 | 17h50m in air+layover | layover: NRT 2h50m\n    legs: JAL JL 67 (Business Class); JAL JL 735 (Business Class)",
+    "book_url": "https://www.google.com/travel/flights?hl=en&gl=us&curr=USD&tfs=CBwQAhoqEgoyMDI2LTA5LTEyKAEyCE9ORVdPUkxEagcIARIDU0VBcgcIARIDSEtHGioSCjIwMjYtMDktMjAoATIIT05FV09STERqBwgBEgNIS0dyBwgBEgNTRUFAAUgDcAGYAQE&tfu=EgIIAQ"
   },
   {
     "dest": "HKG",
@@ -53,7 +59,8 @@
     "depart": "2026-09-11",
     "price": 6843,
     "total_duration_min": 1150,
-    "text": "  SEA \u2192 LAX \u2192 HKG | 2026-09-11 20:35 \u2192 2026-09-13 06:45 | 19h10m in air+layover | layover: LAX 2h01m\n    legs: Alaska AS 496 (Business Class); Cathay Pacific CX 881 (Business Class)"
+    "text": "  SEA \u2192 LAX \u2192 HKG | 2026-09-11 20:35 \u2192 2026-09-13 06:45 | 19h10m in air+layover | layover: LAX 2h01m\n    legs: Alaska AS 496 (Business Class); Cathay Pacific CX 881 (Business Class)",
+    "book_url": "https://www.google.com/travel/flights?hl=en&gl=us&curr=USD&tfs=CBwQAhoqEgoyMDI2LTA5LTExKAEyCE9ORVdPUkxEagcIARIDU0VBcgcIARIDSEtHGioSCjIwMjYtMDktMjAoATIIT05FV09STERqBwgBEgNIS0dyBwgBEgNTRUFAAUgDcAGYAQE&tfu=EgIIAQ"
   },
   {
     "dest": "HKG",
@@ -61,7 +68,8 @@
     "depart": "2026-09-12",
     "price": 6856,
     "total_duration_min": 800,
-    "text": "  SEA \u2192 HKG | 2026-09-12 12:25 \u2192 2026-09-13 16:45 | 13h20m in air+layover | layover: nonstop\n    legs: Cathay Pacific CX 853 (Business Class)"
+    "text": "  SEA \u2192 HKG | 2026-09-12 12:25 \u2192 2026-09-13 16:45 | 13h20m in air+layover | layover: nonstop\n    legs: Cathay Pacific CX 853 (Business Class)",
+    "book_url": "https://www.google.com/travel/flights?hl=en&gl=us&curr=USD&tfs=CBwQAhoqEgoyMDI2LTA5LTEyKAEyCE9ORVdPUkxEagcIARIDU0VBcgcIARIDSEtHGioSCjIwMjYtMDktMjAoATIIT05FV09STERqBwgBEgNIS0dyBwgBEgNTRUFAAUgDcAGYAQE&tfu=EgIIAQ"
   },
   {
     "dest": "HKG",
@@ -69,7 +77,8 @@
     "depart": "2026-09-11",
     "price": 7050,
     "total_duration_min": 1015,
-    "text": "  SEA \u2192 NRT \u2192 HKG | 2026-09-11 13:15 \u2192 2026-09-12 21:10 | 16h55m in air+layover | layover: NRT 1h45m\n    legs: JAL JL 67 (Business Class); Cathay Pacific CX 521 (Business Class)"
+    "text": "  SEA \u2192 NRT \u2192 HKG | 2026-09-11 13:15 \u2192 2026-09-12 21:10 | 16h55m in air+layover | layover: NRT 1h45m\n    legs: JAL JL 67 (Business Class); Cathay Pacific CX 521 (Business Class)",
+    "book_url": "https://www.google.com/travel/flights?hl=en&gl=us&curr=USD&tfs=CBwQAhoqEgoyMDI2LTA5LTExKAEyCE9ORVdPUkxEagcIARIDU0VBcgcIARIDSEtHGioSCjIwMjYtMDktMjAoATIIT05FV09STERqBwgBEgNIS0dyBwgBEgNTRUFAAUgDcAGYAQE&tfu=EgIIAQ"
   },
   {
     "dest": "HKG",
@@ -77,7 +86,8 @@
     "depart": "2026-09-12",
     "price": 7050,
     "total_duration_min": 1015,
-    "text": "  SEA \u2192 NRT \u2192 HKG | 2026-09-12 13:15 \u2192 2026-09-13 21:10 | 16h55m in air+layover | layover: NRT 1h45m\n    legs: JAL JL 67 (Business Class); Cathay Pacific CX 521 (Business Class)"
+    "text": "  SEA \u2192 NRT \u2192 HKG | 2026-09-12 13:15 \u2192 2026-09-13 21:10 | 16h55m in air+layover | layover: NRT 1h45m\n    legs: JAL JL 67 (Business Class); Cathay Pacific CX 521 (Business Class)",
+    "book_url": "https://www.google.com/travel/flights?hl=en&gl=us&curr=USD&tfs=CBwQAhoqEgoyMDI2LTA5LTEyKAEyCE9ORVdPUkxEagcIARIDU0VBcgcIARIDSEtHGioSCjIwMjYtMDktMjAoATIIT05FV09STERqBwgBEgNIS0dyBwgBEgNTRUFAAUgDcAGYAQE&tfu=EgIIAQ"
   },
   {
     "dest": "HKG",
@@ -85,7 +95,8 @@
     "depart": "2026-09-11",
     "price": 7710,
     "total_duration_min": 1070,
-    "text": "  SEA \u2192 SFO \u2192 HKG | 2026-09-11 21:25 \u2192 2026-09-13 06:15 | 17h50m in air+layover | layover: SFO 1h40m\n    legs: Alaska AS 411 (Business Class); Cathay Pacific CX 873 (Business Class)"
+    "text": "  SEA \u2192 SFO \u2192 HKG | 2026-09-11 21:25 \u2192 2026-09-13 06:15 | 17h50m in air+layover | layover: SFO 1h40m\n    legs: Alaska AS 411 (Business Class); Cathay Pacific CX 873 (Business Class)",
+    "book_url": "https://www.google.com/travel/flights?hl=en&gl=us&curr=USD&tfs=CBwQAhoqEgoyMDI2LTA5LTExKAEyCE9ORVdPUkxEagcIARIDU0VBcgcIARIDSEtHGioSCjIwMjYtMDktMjAoATIIT05FV09STERqBwgBEgNIS0dyBwgBEgNTRUFAAUgDcAGYAQE&tfu=EgIIAQ"
   },
   {
     "dest": "PVG",
@@ -93,7 +104,8 @@
     "depart": "2026-09-11",
     "price": 8262,
     "total_duration_min": 2025,
-    "text": "  SEA \u2192 HEL \u2192 PVG | 2026-09-11 17:40 \u2192 2026-09-13 18:25 | 33h45m in air+layover | layover: HEL 12h00m\n    legs: Finnair AY 34 (Business Class); Finnair AY 87 (Business Class)"
+    "text": "  SEA \u2192 HEL \u2192 PVG | 2026-09-11 17:40 \u2192 2026-09-13 18:25 | 33h45m in air+layover | layover: HEL 12h00m\n    legs: Finnair AY 34 (Business Class); Finnair AY 87 (Business Class)",
+    "book_url": "https://www.google.com/travel/flights?hl=en&gl=us&curr=USD&tfs=CBwQAhoqEgoyMDI2LTA5LTExKAEyCE9ORVdPUkxEagcIARIDU0VBcgcIARIDUFZHGioSCjIwMjYtMDktMjAoATIIT05FV09STERqBwgBEgNQVkdyBwgBEgNTRUFAAUgDcAGYAQE&tfu=EgIIAQ"
   },
   {
     "dest": "PEK",
@@ -101,7 +113,8 @@
     "depart": "2026-09-11",
     "price": 9144,
     "total_duration_min": 1905,
-    "text": "  SEA \u2192 NRT \u2192 PEK | 2026-09-11 13:15 \u2192 2026-09-13 12:00 | 31h45m in air+layover | layover: NRT 17h20m\n    legs: JAL JL 67 (Business Class); JAL JL 21 (Business Class)"
+    "text": "  SEA \u2192 NRT \u2192 PEK | 2026-09-11 13:15 \u2192 2026-09-13 12:00 | 31h45m in air+layover | layover: NRT 17h20m\n    legs: JAL JL 67 (Business Class); JAL JL 21 (Business Class)",
+    "book_url": "https://www.google.com/travel/flights?hl=en&gl=us&curr=USD&tfs=CBwQAhoqEgoyMDI2LTA5LTExKAEyCE9ORVdPUkxEagcIARIDU0VBcgcIARIDUEVLGioSCjIwMjYtMDktMjAoATIIT05FV09STERqBwgBEgNQRUtyBwgBEgNTRUFAAUgDcAGYAQE&tfu=EgIIAQ"
   },
   {
     "dest": "HKG",
@@ -109,7 +122,8 @@
     "depart": "2026-09-11",
     "price": 10106,
     "total_duration_min": 1980,
-    "text": "  SEA \u2192 HEL \u2192 HKG | 2026-09-11 17:40 \u2192 2026-09-13 17:40 | 33h00m in air+layover | layover: HEL 11h25m\n    legs: Finnair AY 34 (Business Class); Finnair AY 99 (Business Class)"
+    "text": "  SEA \u2192 HEL \u2192 HKG | 2026-09-11 17:40 \u2192 2026-09-13 17:40 | 33h00m in air+layover | layover: HEL 11h25m\n    legs: Finnair AY 34 (Business Class); Finnair AY 99 (Business Class)",
+    "book_url": "https://www.google.com/travel/flights?hl=en&gl=us&curr=USD&tfs=CBwQAhoqEgoyMDI2LTA5LTExKAEyCE9ORVdPUkxEagcIARIDU0VBcgcIARIDSEtHGioSCjIwMjYtMDktMjAoATIIT05FV09STERqBwgBEgNIS0dyBwgBEgNTRUFAAUgDcAGYAQE&tfu=EgIIAQ"
   },
   {
     "dest": "HKG",
@@ -117,7 +131,8 @@
     "depart": "2026-09-11",
     "price": 11454,
     "total_duration_min": 1065,
-    "text": "  SEA \u2192 NRT \u2192 HKG | 2026-09-11 13:20 \u2192 2026-09-12 22:05 | 17h45m in air+layover | layover: NRT 2h20m\n    legs: Alaska AS 823 (Business Class); JAL JL 735 (Business Class)"
+    "text": "  SEA \u2192 NRT \u2192 HKG | 2026-09-11 13:20 \u2192 2026-09-12 22:05 | 17h45m in air+layover | layover: NRT 2h20m\n    legs: Alaska AS 823 (Business Class); JAL JL 735 (Business Class)",
+    "book_url": "https://www.google.com/travel/flights?hl=en&gl=us&curr=USD&tfs=CBwQAhoqEgoyMDI2LTA5LTExKAEyCE9ORVdPUkxEagcIARIDU0VBcgcIARIDSEtHGioSCjIwMjYtMDktMjAoATIIT05FV09STERqBwgBEgNIS0dyBwgBEgNTRUFAAUgDcAGYAQE&tfu=EgIIAQ"
   },
   {
     "dest": "PVG",
@@ -125,7 +140,8 @@
     "depart": "2026-09-11",
     "price": 15972,
     "total_duration_min": 1846,
-    "text": "  SEA \u2192 DFW \u2192 PVG | 2026-09-11 17:34 \u2192 2026-09-13 15:20 | 30h46m in air+layover | layover: DFW 11h26m\n    legs: American AA 727 (First Class); American AA 127 (Business Class)"
+    "text": "  SEA \u2192 DFW \u2192 PVG | 2026-09-11 17:34 \u2192 2026-09-13 15:20 | 30h46m in air+layover | layover: DFW 11h26m\n    legs: American AA 727 (First Class); American AA 127 (Business Class)",
+    "book_url": "https://www.google.com/travel/flights?hl=en&gl=us&curr=USD&tfs=CBwQAhoqEgoyMDI2LTA5LTExKAEyCE9ORVdPUkxEagcIARIDU0VBcgcIARIDUFZHGioSCjIwMjYtMDktMjAoATIIT05FV09STERqBwgBEgNQVkdyBwgBEgNTRUFAAUgDcAGYAQE&tfu=EgIIAQ"
   },
   {
     "dest": "PVG",
@@ -133,7 +149,8 @@
     "depart": "2026-09-11",
     "price": 17405,
     "total_duration_min": 1645,
-    "text": "  SEA \u2192 LHR \u2192 PVG | 2026-09-11 13:30 \u2192 2026-09-13 07:55 | 27h25m in air+layover | layover: LHR 5h20m\n    legs: British Airways BA 52 (Business Class); British Airways BA 169 (Business Class)"
+    "text": "  SEA \u2192 LHR \u2192 PVG | 2026-09-11 13:30 \u2192 2026-09-13 07:55 | 27h25m in air+layover | layover: LHR 5h20m\n    legs: British Airways BA 52 (Business Class); British Airways BA 169 (Business Class)",
+    "book_url": "https://www.google.com/travel/flights?hl=en&gl=us&curr=USD&tfs=CBwQAhoqEgoyMDI2LTA5LTExKAEyCE9ORVdPUkxEagcIARIDU0VBcgcIARIDUFZHGioSCjIwMjYtMDktMjAoATIIT05FV09STERqBwgBEgNQVkdyBwgBEgNTRUFAAUgDcAGYAQE&tfu=EgIIAQ"
   },
   {
     "dest": "HKG",
@@ -141,6 +158,7 @@
     "depart": "2026-09-11",
     "price": 18746,
     "total_duration_min": 1685,
-    "text": "  SEA \u2192 LHR \u2192 HKG | 2026-09-11 20:20 \u2192 2026-09-13 15:25 | 28h05m in air+layover | layover: LHR 5h35m\n    legs: British Airways BA 48 (Business Class); British Airways BA 31 (Business Class)"
+    "text": "  SEA \u2192 LHR \u2192 HKG | 2026-09-11 20:20 \u2192 2026-09-13 15:25 | 28h05m in air+layover | layover: LHR 5h35m\n    legs: British Airways BA 48 (Business Class); British Airways BA 31 (Business Class)",
+    "book_url": "https://www.google.com/travel/flights?hl=en&gl=us&curr=USD&tfs=CBwQAhoqEgoyMDI2LTA5LTExKAEyCE9ORVdPUkxEagcIARIDU0VBcgcIARIDSEtHGioSCjIwMjYtMDktMjAoATIIT05FV09STERqBwgBEgNIS0dyBwgBEgNTRUFAAUgDcAGYAQE&tfu=EgIIAQ"
   }
 ]
