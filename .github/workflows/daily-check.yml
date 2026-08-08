@@ -1,0 +1,49 @@
+name: Daily flight price check
+
+on:
+  schedule:
+    # 13:30 UTC = 6:30am Pacific (PDT). Runs daily.
+    - cron: "30 13 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Run tracker
+        env:
+          SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
+        run: |
+          mkdir -p results
+          python3 flight_tracker.py --json results/latest.json --history results/history.csv | tee results/latest.txt
+
+      - name: Commit results
+        run: |
+          git config user.name "flight-tracker-bot"
+          git config user.email "actions@github.com"
+          git add results/
+          git commit -m "Price check $(date -u +%F)" || echo "no changes"
+          git push
+
+      - name: Post report to tracking issue (sends you an email)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          ISSUE=$(gh issue list --state open --search "Daily flight price reports in:title" --json number --jq '.[0].number' || true)
+          if [ -z "$ISSUE" ] || [ "$ISSUE" = "null" ]; then
+            ISSUE=$(gh issue create --title "Daily flight price reports" \
+              --body "Each day's price check is posted below as a comment. Watch this issue to get emails." \
+              | grep -o '[0-9]*$')
+          fi
+          {
+            echo '```'
+            cat results/latest.txt
+            echo '```'
+          } > comment.md
+          gh issue comment "$ISSUE" --body-file comment.md
